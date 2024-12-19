@@ -14,7 +14,7 @@ A simple Library Management System project developed using **Python**. This appl
 ---
 
 ## 💻 Language:
-- **🐍 Python
+- 🐍 Python
 
 ---
 
