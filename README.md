@@ -13,9 +13,8 @@ A simple Library Management System project developed using **Python**. This appl
 
 ---
 
-## 🛠️ Technologies Used:
-- Language: Python
-- Data Structures: Lists, Dictionaries
+## 💻 Language:
+- **🐍 Python
 
 ---
 
