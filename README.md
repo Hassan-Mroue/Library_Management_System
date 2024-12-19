@@ -14,11 +14,11 @@ A simple Library Management System project developed using **Python**. This appl
 ---
 
 ## 🛠️ Technologies Used:
-- ** Language: Python
-- ** Data Structures: Lists, Dictionaries
+- Language: Python
+- Data Structures: Lists, Dictionaries
 
 ---
 
 ## 👥 Project Leaders:
-- ** Hassan Mroué – Project Leader
-- ** Avdyrahman Agajykov – Project Leader
+- Hassan Mroué – Project Leader
+- Avdyrahman Agajykov – Project Leader
